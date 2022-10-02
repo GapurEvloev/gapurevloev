@@ -14,6 +14,8 @@
 
 
 ## 💻 Below you will find some of my projects
+- [Demo](https://new.faberlic.com/ru/l/glam-team#/) React, SAP, RestAPI - Project for Faberlic
+
 - [Сode](https://github.com/GapurEvloev/react_pizza_v2) | [Demo](https://gapurevloev.github.io/react_pizza_v2/) React, TS, Redux - Pizza App
 
 - [Сode](https://github.com/GapurEvloev/swapi) | [Demo](https://gapurevloev.github.io/swapi/) React, Redux, StoryBook - Star Wars API App
