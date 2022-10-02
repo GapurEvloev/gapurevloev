@@ -14,7 +14,7 @@
 
 
 ## 💻 Below you will find some of my projects
-- [Demo](https://new.faberlic.com/ru/l/glam-team#/) React, SAP, RestAPI - Project for Faberlic
+- [Prod](https://new.faberlic.com/ru/l/glam-team#/) React, SAP, RestAPI - Project for Faberlic(select Russia location)
 
 - [Сode](https://github.com/GapurEvloev/react_pizza_v2) | [Demo](https://gapurevloev.github.io/react_pizza_v2/) React, TS, Redux - Pizza App
 
