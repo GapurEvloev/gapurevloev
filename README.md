@@ -4,13 +4,13 @@
 
 </div>
 
-# Hi! I'm Gapur 👋
-<p align="left">I'm frontend developer who likes to work with JS, TS, React and Next. I also like mentoring people who want to become developers. I've been living in Munich recently and I love it here.</p>
+# I'm Gapur 👋
+<p align="left">Front-end developer with 5+ years of experience building user-friendly, efficient websites and web applications using modern JavaScript and TypeScript, as well as popular frameworks such as React and Next.js.</p>
 
 ## 🤙 My сontacts
 [![LinkedIn](https://img.shields.io/badge/-gapur-0b66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gapur/)](https://www.linkedin.com/in/gapur/)
 [![Telegram](https://img.shields.io/badge/-gapur-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/gapur)](https://t.me/gapur)
-[![Mail](https://img.shields.io/badge/-@Mail-c2e7ff?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:kaloycant@gmail.com)](mailto:kaloycant@gmail.com)
+[![Mail](https://img.shields.io/badge/-@Mail-c2e7ff?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:gapurdev@gmail.com)](mailto:gapurdev@gmail.com)
 
 
 ## 💻 Below you will find some of my projects
@@ -54,14 +54,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="WebStorm" width="25" height="25" />
 </p>
-
-## 📈 Statistics
-<div display='flex'>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GapurEvloev&include_all_commits=true&hide=issues&show_icons=true"/>
-</div>
-</br>
-* * *
-</br>
-<div display='flex'>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GapurEvloev&langs_count=8&layout=compact"/>
-</div>
