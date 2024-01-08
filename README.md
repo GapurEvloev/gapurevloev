@@ -3,7 +3,7 @@
 [![Header](https://github.com/GapurEvloev/gapurevloev/blob/main/assets/obi-van.425a324483e3572cd4d4.gif)](https://www.linkedin.com/in/gapur/)
 
 </div>
-
+<!-- 
 # I'm Gapur 👋
 <p align="left">Front-end developer with 5+ years of experience building user-friendly, efficient websites and web applications using modern JavaScript and TypeScript, as well as popular frameworks such as React and Next.js.</p>
 
@@ -55,4 +55,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="WebStorm" width="25" height="25" />
-</p>
+</p> -->
